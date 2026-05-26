@@ -8,6 +8,7 @@ import {
   Tag, Palette, Link as LinkIcon, FileText, ClipboardList
 } from 'lucide-react';
 
+
 // --- CONFIGURACIÓN DE API (CLOUDFLARE PAGES FUNCTIONS + D1) ---
 const API_URL = '/api/sync';
 

@@ -1,0 +1,7 @@
+name = "tu-app-estetica"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cowork_db"
+database_id = "e659e8fd-815a-4089-a44b-4843d26a465f"

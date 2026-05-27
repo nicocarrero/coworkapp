@@ -1,5 +1,5 @@
-name = 'coworkapp'
-pages_build_output_dir = "dist"
+name = "coworkapp"
+compatibility_date = "2026-05-27"
 
 [[d1_databases]]
 binding = "DB"

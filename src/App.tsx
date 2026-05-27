@@ -8,7 +8,6 @@ import {
   Tag, Palette, Link as LinkIcon, FileText, ClipboardList
 } from 'lucide-react';
 
-
 // --- CONFIGURACIÓN ESTÉTICA ---
 const COLORS = {
   bg: 'bg-[#FAF9F6]', 

@@ -1,6 +1,9 @@
 name = "coworkapp"
 compatibility_date = "2026-05-27"
 
+[assets]
+directory = "./dist"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "cowork_db"
